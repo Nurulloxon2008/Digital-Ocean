@@ -1,0 +1,16 @@
+<svg width="140.000000" height="50.000000" viewBox="0 0 140 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<g opacity="0.100000">
+		<circle id="Ellipse 108" cx="115.000000" cy="25.000000" r="25.000000" fill="#0187FD" fill-opacity="1.000000"/>
+	</g>
+	<path id="Vector" d="M110 34L119 25L110 16" stroke="#0086FC" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<g opacity="0.400000">
+		<path id="Vector" d="M29 34L20 25L29 16" stroke="#0086FC" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<g opacity="0.050000">
+		<circle id="Ellipse 108" r="25.000000" transform="matrix(-1 0 0 1 25 25)" fill="#0086FC" fill-opacity="1.000000"/>
+	</g>
+</svg>
